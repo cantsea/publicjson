@@ -11,6 +11,9 @@
       "Use /ah to browse listings."
     ],
     "Trading": [
+      "To send a trade request, use the command: /trade [player name]",
+      "A trade request can also be sent by shift-right-clicking the player.",
+      "To accept a trade, use /trade accept [player name]"
     ],
     "Land Claiming": [
     ],
