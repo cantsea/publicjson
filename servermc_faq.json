@@ -16,6 +16,11 @@
       "To accept a trade, use /trade accept [player name]"
     ],
     "Land Claiming": [
+      "The land-claiming tool is the Golden Shovel. You MUST be holding this in order to claim land. You can craft one yourself, if you do not have one.",
+      "To claim land, right click the first corner of the land you wish to claim. Then, right click the second corner, and the land will be claimed as a square/rectangle, with the two corners you right clicked being opposite corners.",
+      "You can also use /claim [radius] while holding the shovel.",
+      "Make sure to keey an eye out on the number of claim blocks you have. You can get more from crates.",
+      "To delete an existing claim, stand in the claim, and use /abandonclaim. You will be refunded the claim blocks."
     ],
     "Teams & Allies": [
     ]
