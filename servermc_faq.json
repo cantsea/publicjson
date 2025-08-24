@@ -1,6 +1,9 @@
 {
   "sections": [
-    "Auction House"
+    "Auction House",
+    "Trading",
+    "Land Claiming",
+    "Teams & Allies".
   ],
   "bulletsBySection": {
     "Auction House": [
