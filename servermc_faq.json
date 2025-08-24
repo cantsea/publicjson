@@ -9,6 +9,12 @@
     "Auction House": [
       "Sell items using /ah sell [price] [amount] [Coins/Experience] (capitalize Coins/Experience).",
       "Use /ah to browse listings."
+    ],
+    "Trading": [
+    ],
+    "Land Claiming": [
+    ],
+    "Teams & Allies": [
     ]
   }
 }
